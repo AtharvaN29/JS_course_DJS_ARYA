@@ -1,0 +1,26 @@
+commands to upload prijects of git
+
+git init ,creates a git folder
+
+git status , used to check the status : red if not added
+
+git add .  ,add all files
+
+add>commit>push
+
+git commit -m "section 1-6"  ," "name can be varied
+
+git remote add origin https://github.com/AtharvaN29/JS_course_DJS_ARYA.git  
+
+git branch -M main
+
+git push -u origin main
+
+
+make changes
+
+git add .
+git commit -m "section 7-9"
+git push
+
+these 3 commands are  to be used to commit the new changes
